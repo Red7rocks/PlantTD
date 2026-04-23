@@ -1,0 +1,10 @@
+63f7b34db8d8cdea90c76aacccf841ec
+::res://::1776902147
+README.md::TextFile::-1::1776901760::0::1::::<><><>0<>0<><>::
+::res://Scenes/::1776901858
+RootMap.cs::CSharpScript::9018412739957406736::1776897976::0::1::::<><><>0<>0<><>::
+rootMap.tscn::PackedScene::2144067885233506844::1776898409::0::1::::<><><>0<>0<><>::uid://d1qt675orny8w::::res://Scenes/RootMap.cs
+RootSegment.cs::CSharpScript::6230397511428658600::1776901855::0::1::::<><><>0<>0<><>::
+rootSegment.tscn::PackedScene::8230799796350263857::1776901858::0::1::::<><><>0<>0<><>::uid://dm3ubqt5y8fk5::::res://Sprites/root_rect.png<>uid://cu1b0bw4g433y::::res://Scenes/RootSegment.cs
+::res://Sprites/::1776901111
+root_rect.png::CompressedTexture2D::8060547748619923854::1776901105::1776902148::1::::<><><>0<>0<>6a9aec1aacc864f2044859280ae087db<>res://.godot/imported/root_rect.png-0a8e19218e79483e75a526efd0eee379.ctex::
