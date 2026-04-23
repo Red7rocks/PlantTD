@@ -1,0 +1,11 @@
+[gd_scene format=3 uid="uid://dpjccnbv3rhk0"]
+
+[ext_resource type="Texture2D" uid="uid://dm3ubqt5y8fk5" path="res://Sprites/root_rect.png" id="1_c1v5a"]
+[ext_resource type="Script" uid="uid://cu1b0bw4g433y" path="res://Scenes/RootSegment.cs" id="1_m0cde"]
+
+[node name="rootSegment" type="Node2D" unique_id=1433862003]
+script = ExtResource("1_m0cde")
+
+[node name="Sprite2D" type="Sprite2D" parent="." unique_id=1083514448]
+rotation = 1.5707964
+texture = ExtResource("1_c1v5a")

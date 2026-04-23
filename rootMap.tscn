@@ -1,0 +1,20 @@
+[gd_scene format=3 uid="uid://5suqqpjfj0b5"]
+
+[ext_resource type="Script" uid="uid://d1qt675orny8w" path="res://Scenes/RootMap.cs" id="1_djtj0"]
+
+[sub_resource type="CanvasTexture" id="CanvasTexture_djtj0"]
+specular_color = Color(0.56078434, 0.2509804, 0, 1)
+
+[node name="RootMap" type="Node2D" unique_id=610468344]
+script = ExtResource("1_djtj0")
+
+[node name="Background" type="Sprite2D" parent="." unique_id=169328257]
+modulate = Color(0.56078434, 0.2509804, 0, 1)
+position = Vector2(960, 540)
+scale = Vector2(1920, 1080)
+texture = SubResource("CanvasTexture_djtj0")
+
+[node name="Timer" type="Timer" parent="." unique_id=444728081]
+autostart = true
+
+[node name="Roots" type="Node2D" parent="." unique_id=59774692]
